@@ -1,0 +1,6 @@
+.DS_Store
+.vscode/
+npm-cache/
+node_modules/
+.env
+.env.local
